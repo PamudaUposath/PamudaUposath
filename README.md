@@ -19,10 +19,15 @@ Hello! I'm Pamuda Uposath de Alwis Goonatilake, a first-year Computer Science st
 - Tools and Platforms: Git, Linux, Windows
 
 ## Projects
-### Students Marks Entry
+### 01) Students Marks Entry
 - **Description:** A Python-based application to manage student marks, developed collaboratively with a friend.
 - **Tech Stack:** Python, Tkinter
-- **Repo:** [Students Marks Entry](link-to-repo)
+- **Repo:** [Students Marks Entry](https://github.com/PamudaUposath/students-Marks-Entry)
+
+### 02) BirthdayWishing
+- **Description:** A fun and interactive project for sending personalized birthday messages with virtual candles that can be blown out using just your breath.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Repo:** [BirthdayWishing](https://github.com/PamudaUposath/BirthdayWishing)
 
 ## Let's Connect!
 I'm always open to new opportunities, collaborations, and learning experiences. Feel free to reach out to me if you have any exciting projects, need assistance, or just want to chat about technology and programming. Let's build something amazing together!
