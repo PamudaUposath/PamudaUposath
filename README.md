@@ -29,6 +29,11 @@ Hello! I'm Pamuda Uposath de Alwis Goonatilake, a first-year Computer Science st
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Repo:** [BirthdayWishing](https://github.com/PamudaUposath/BirthdayWishing)
 
+### 03) fun-facts-generator
+- **Description:** This project was created after learning about generative AI and prompt engineering during the **GenAI 101 Sri Lanka with Pieces** session. The **Fun Facts Generator** website allows users to click a button and generate random fun facts, all built with a simple and user-friendly interface using HTML, CSS, and JavaScript.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Repo:** [Fun Facts Generator](https://pamudauposath.github.io/fun-facts-generator/)
+
 ## Let's Connect!
 I'm always open to new opportunities, collaborations, and learning experiences. Feel free to reach out to me if you have any exciting projects, need assistance, or just want to chat about technology and programming. Let's build something amazing together!
 
