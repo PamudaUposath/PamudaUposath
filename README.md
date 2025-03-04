@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hello! I'm Pamuda Uposath de Alwis Goonatilake, a first-year Computer Science student at the University of Jaffna. My passion for programming and technology drives me to constantly learn and explore new horizons. I've mastered Python and am currently diving deep into Java and JavaScript. I love tackling projects that challenge my skills and expand my knowledge.
+Hello! I'm Pamuda Uposath de Alwis Goonatilake, a second year Computer Science student at the University of Jaffna. My passion for programming and technology drives me to constantly learn and explore new horizons. I've mastered Python and am currently diving deep into Java and JavaScript. I love tackling projects that challenge my skills and expand my knowledge.
 
 - 🔭 Current Focus: Enhancing my Java and JavaScript skills.
 - 🌱 Exploring: Web development and data structures.
