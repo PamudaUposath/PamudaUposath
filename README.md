@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pamuda U. de A. Goonatilake</h1>
+<h1 align="center">Hi, I am Pamuda U. de A. Goonatilake</h1>
 <h3 align="center">Computer Science Undergraduate | Full Stack Developer | AWS Cloud Enthusiast</h3>
 
 <p align="center">
@@ -60,17 +60,17 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,postman" />
 </p>
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,kubernetes" />
 </p>
 
 ### Mobile & Other Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,arduino,opencv,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=flutter,arduino,opencv,git" />
 </p>
 
 ---
